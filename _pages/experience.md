@@ -1,10 +1,10 @@
-------
+---
 layout: archive
-title: Experience
+title: "Experience"
 permalink: /experience/
 author_profile: true
-redirect_from: 
-  - /experience/
+redirect_from:
+  - /experience
 ---
 
 # Experience
