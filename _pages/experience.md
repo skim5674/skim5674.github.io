@@ -13,7 +13,7 @@ redirect_from:
 - Built SQL/Python/Tableau, PowerBI pipelines for automated data analysis  
 - Authored SOPs and standardized coin- and SLP-cell assembly workflows
 
-## Engineering Intern - Battery Cell Engineer — Rivian
+## Engineering Intern, Battery Cell Engineer — Rivian
 **Irvine, CA | May 2023 – Dec 2023**  
 - Current-violation risk assessment and DCFC charge profile development
 - Hands-on experience for 2170 cell teardown and three-electrode pouch cell testing  
