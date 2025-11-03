@@ -10,10 +10,10 @@ redirect_from:
 ## 🧩 Project 1 — Automated Cell Testing Data Pipeline
 *(Python · SQL · Tableau · Arbin/Neware)*
 
-**Objective**<br>
+**Objective**
 Build a unified SQL-based database and automated workflow for daily cell-testing data aggregation.<br>
 
-**Approach**<br>
+**Approach**
 - Designed Python scripts to extract I-V, cycle, and EIS data from battery testers
 - Developed SQL Server tables for Tableau / Power BI visualization
 - Built Tableau dashboards for KPIs (capacity retention, ICE, impedance growth)
