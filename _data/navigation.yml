@@ -11,8 +11,8 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "Experiences"
-    url: /experiences/    
+  - title: "Experience"
+    url: /experience/    
     
   - title: "Projects"
     url: /projects/    
