@@ -7,11 +7,11 @@ redirect_from:
   - /projects
 ---
 
-### 🧩 Project 1 — Automated Cell Testing Data Pipeline
+## 🧩 Project 1 — Automated Cell Testing Data Pipeline
 *(Python · SQL · Tableau · Arbin/Neware)*
 
-**Objective**
-Build a unified SQL-based database and automated workflow for daily cell-testing data aggregation.
+**Objective**<br>
+Build a unified SQL-based database and automated workflow for daily cell-testing data aggregation.<br>
 **Approach**
 - Designed Python scripts to extract I-V, cycle, and EIS data from battery testers
 - Developed SQL Server tables for Tableau / Power BI visualization
@@ -21,11 +21,11 @@ Build a unified SQL-based database and automated workflow for daily cell-testing
 
 
 
-### 🔋 Project 2 — Facility Expansion for Single-Layer Pouch (SLP) Cell Testing
+## 🔋 Project 2 — Facility Expansion for Single-Layer Pouch (SLP) Cell Testing
 *(Equipment setup · SOP writing · Test optimization)*
 
-**Objective**
-Establish repeatable, high-yield SLP builds for Si–graphite anodes.
+**Objective**<br>
+Establish repeatable, high-yield SLP builds for Si–graphite anodes.<br>
 **Contributions**
 - Installed and configured new Arbin 96-channel testers + environmental chambers
 - Set up SLP assembly equipment
@@ -36,11 +36,11 @@ Establish repeatable, high-yield SLP builds for Si–graphite anodes.
 
 
 
-### 🚗 Project 3 — Current Violation Risk Assessment (Rivian Intern)
+## 🚗 Project 3 — Current Violation Risk Assessment (Rivian Intern)
 *(High-frequency current testing · Teardown · Analysis)*
 
-**Objective**
-Characterize high-frequency current ripple impact on battery cells.
+**Objective**<br>
+Characterize high-frequency current ripple impact on battery cells.<br>
 **Contributions**
 - Set up hardware for current-ripple tests
 - Conducted 2170 cell teardowns and three-electrode tests for risk evaluation
@@ -51,7 +51,7 @@ Characterize high-frequency current ripple impact on battery cells.
 
 
 
-### ❄️ Project 4 — Extreme Low-Temperature Cell Operation Study (Ph.D.)
+## ❄️ Project 4 — Extreme Low-Temperature Cell Operation Study (Ph.D.)
 *(Cryogenic testing · Characterization · Publications)*
 - Set up a liquid-nitrogen-equipped cell-testing fixture
 - Enabled cycling of Li-ion cells down to –120 °C
