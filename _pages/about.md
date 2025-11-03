@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Battery Cell Engineer"
+title: "⚡ Soohwan Kim — Battery Cell Engineer"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I’m a **battery cell engineer** specializing in **silicon-anode systems, cell testing, and electrochemical analysis**.
 
