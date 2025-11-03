@@ -21,4 +21,4 @@ At Alkegen, I design and operate **end-to-end testing workflows** — from coin/
 - DOE-driven cell-performance optimization
 - Data infrastructure & visualization for battery cell testing labs
 
-**Résumé (PDF):** [Link](https://drive.google.com/file/d/1lt14hiBC96S5iav0DS8muX2yWWB_x7fk/view?usp=drivesdk)
+**Résumé (PDF):** [Link](files/Resume_Soohwan_Kim.pdf)
