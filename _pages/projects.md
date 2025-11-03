@@ -13,13 +13,10 @@ redirect_from:
 **Objective:**  
 Build a unified SQL-based database and automated workflow for daily cell-testing data aggregation.  
 
-**Approach:** 
-<div style="margin-top:-0.5em">
+**Approach:**  
 - Designed Python scripts to extract I–V, cycle, and EIS data from battery testers  
 - Developed SQL Server tables for Tableau / Power BI visualization  
 - Built Tableau dashboards for KPIs (capacity retention, ICE, impedance growth)  
-
-</div>
 
 **Impact:**  
 💡 Reduced manual data-processing time > 90 %; enabled real-time performance tracking and full test traceability.  
