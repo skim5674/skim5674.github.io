@@ -13,12 +13,12 @@ redirect_from:
 **Objective**<br>
 Build a unified SQL-based database and automated workflow for daily cell-testing data aggregation.<br>
 
-**Approach**
+**Approach**<br>
 - Designed Python scripts to extract I-V, cycle, and EIS data from battery testers
 - Developed SQL Server tables for Tableau / Power BI visualization
 - Built Tableau dashboards for KPIs (capacity retention, ICE, impedance growth)
 
-**Impact**
+**Impact**<br>
 💡 Reduced manual data-processing time > 90 %; enabled real-time performance tracking and full test traceability.
 
 
@@ -29,13 +29,13 @@ Build a unified SQL-based database and automated workflow for daily cell-testing
 **Objective**<br>
 Establish repeatable, high-yield SLP builds for Si–graphite anodes.<br>
 
-**Contributions**
+**Contributions**<br>
 - Installed and configured new Arbin 96-channel testers + environmental chambers
 - Set up SLP assembly equipment
 - Authored and standardized SLP assembly SOPs
 - Designed formation & cycling protocols reducing variability
 
-**Result**
+**Result**<br>
 ✅ Successfully introduced new equipment and SLP workflow to the team.
 
 
@@ -46,13 +46,13 @@ Establish repeatable, high-yield SLP builds for Si–graphite anodes.<br>
 **Objective**<br>
 Characterize high-frequency current ripple impact on battery cells.<br>
 
-**Contributions**
+**Contributions**<br>
 - Set up hardware for current-ripple tests
 - Conducted 2170 cell teardowns and three-electrode tests for risk evaluation
 - Designed protocols usable for current/future EV cell programs
 - Supported new equipment acquisition to expand capability
 
-**Result**
+**Result**<br>
 ✅ Published operational limits based on data and secured approval for equipment upgrade.
 
 
