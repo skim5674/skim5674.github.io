@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+---
 I’m a **battery cell engineer** specializing in **silicon-anode systems, cell testing, and electrochemical analysis**.
 
 My experience spans academic research on low-temperature batteries (Purdue), industrial NPI work (Rivian), and cell testing + optimization for Si-based anodes (Alkegen).
