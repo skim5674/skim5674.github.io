@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ---
 
-## 📚 **Journal Papers**
+## 📚 Journal Papers
 
 [**Insights into Electrolyte–Solvent Interactions and SEI Formation for Sustainable Sodium-Ion Battery Operation at Low Temperatures**](https://doi.org/10.1002/smtd.202402142)  
 **S. Kim**, V. Mirzapure, R. Atwi, H. V. S. R. M. Koppisetti, K. Wasnik, N. N. Rajput, M. Shelke, V. G. Pol  
@@ -63,7 +63,7 @@ D. J. Chung, D. Youn, **S. Kim**, D. Ma, J. Lee, W. J. Jeong, E. Park, J.-S. Kim
 
 ---
 
-## 🔬 **Patent**
+## 🔬 Patent
 
 [**Electrolyte Compositions for Use in Electrochemical Cells and Electrochemical Cells Made Therefrom**](https://patents.google.com/patent/US20230369650A1/en)  
 V. G. Pol, **S. Kim**  
