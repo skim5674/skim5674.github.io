@@ -34,3 +34,15 @@ redirect_from:
 **Saarbrücken, Germany | Mar 2017 – Aug 2017**  
 - Investigated electrode materials for vanadium redox flow batteries
 - Supported prototype fabrication and electrochemical validation
+
+---
+## 🧠 Technical Expertise
+
+| **Category** | **Tools / Techniques** |
+|---------------|------------------------|
+| **Testing Systems** | Arbin, Neware, Maccor, BaSyTec, Toyo, BioLogic, Gamry |
+| **Data & Automation** | Python, SQL, Tableau, Power BI |
+| **Electrochemical Analysis** | EIS, dQ/dV, dV/dQ, GITT, PITT |
+| **Hands-on Cell Development** | Coin & SLP (two- and three-electrode systems), cell teardown (2170 & prismatic) |
+| **Materials Characterization** | SEM, XRD, Raman, FTIR, DSC, TGA, XPS |
+| **Other Tools** | Origin, 3ds Max, KeyShot |
