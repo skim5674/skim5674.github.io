@@ -25,4 +25,4 @@ In my current position at Alkegen, I design and operate **end-to-end testing wor
 ---
 
 
-**Résumé (PDF):** [Link](files/Resume_Soohwan_Kim.pdf)
+**Résumé (PDF):** [Link](files/Resume_Soohwan Kim.pdf)
