@@ -15,8 +15,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 **Insights into Electrolyte–Solvent Interactions and SEI Formation for Sustainable Sodium-Ion Battery Operation at Low Temperatures**  
 **S. Kim**, V. Mirzapure, R. Atwi, H. V. S. R. M. Koppisetti, K. Wasnik, N. N. Rajput, M. Shelke, V. G. Pol  
-*Small Methods*, e02142 (2025)  
-[DOI](https://doi.org/10.1002/smtd.202402142)
+*Small Methods*, e02142 (2025) [DOI](https://doi.org/10.1002/smtd.202402142)
 
 **Efficient Photovoltaics Integrated with Innovative Li-Ion Batteries for Extreme (+80 °C to −105 °C) Temperature Operations**  
 E. Adams, A. Camacho, E. Mammana, **S. Kim**, T. E. Adams, V. G. Pol  
